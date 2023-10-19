@@ -22,7 +22,7 @@
   
   :mortar_board: Educatinon:
   
-  - :classical_building: Specialist's degree in the ... (Bauman Moscow State Technical University)
+  - :classical_building: Specialist's degree in the Lazer and optoelectronic system (Bauman Moscow State Technical University)
   
   - :school: Frontend developer (STEP academy Astana)
 
