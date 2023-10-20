@@ -6,7 +6,7 @@
   <a href="https://t.me/msk_nur0">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.instagram.com/p/BjVRs4kBJRy/?igshid=MzRlODBiNWFlZA==">
+  <a href="https://instagram.com/msk_nur?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
@@ -18,7 +18,9 @@
 <div id='about'>
   :man_technologist: About Me :
   
-  I'm Frontend developer from Russia(Moscow):ru:/Kazahstan(Astana):kazakhstan:
+  👨I'm Frontend developer from Russia(Moscow):ru:/Kazahstan(Astana):kazakhstan:
+
+  🌎 Languages: Russian(native), English
   
   :mortar_board: Educatinon:
   
@@ -36,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
