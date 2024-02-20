@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href='https://www.codewars.com/users/SevenNights'>
-    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars Badge"/>
+    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=CodeWars&logoColor=black" alt="CodeWars Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AlexGadzhibekov&style=flat-square&color=blue" alt=""/>
