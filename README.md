@@ -3,12 +3,6 @@
   Hello! I'm Alex and this is my GitHub👋
 </h1>
 <div id="badges">
-  <a href="https://t.me/msk_nur0">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://instagram.com/msk_nur?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href='https://www.codewars.com/users/SevenNights'>
     <img src="https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=CodeWars&logoColor=white" alt="CodeWars Badge"/>
   </a>
@@ -31,7 +25,7 @@
   
   - :school: Frontend developer (STEP academy Astana)
 
-:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/msk_nur0)
+
 </div>
 
 ---
